@@ -21,18 +21,19 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 50px;
 }
 .product{
     display: flex;
     flex-direction: row;
     color: hsl(300, 43%, 22%);
-    margin: 50px;
+    margin: 20px 50px 50px 50px;
     justify-content: space-between;
     width: 100%;  
 }
 .users{
-    width: 400px;
-    padding: 0px 0px 0px 150px;
+    width: 380px;
+    padding: 0px 0px 0px 155px;
 }
 .users p{
     color: hsl(303, 10%, 53%);
@@ -46,7 +47,7 @@ h1{
     flex-direction: column;
     gap: 20px;
     justify-content: center;
-    padding: 0px 150px 0px 0px;
+    padding: 70px 150px 0px 0px;
     align-content: center;
 }
 .rating-1{
